@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "standard-version": "^4.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "release": "standard-version",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangkaiwd/git-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangkaiwd/git-test/issues"
+  },
+  "homepage": "https://github.com/wangkaiwd/git-test#readme"
+}
