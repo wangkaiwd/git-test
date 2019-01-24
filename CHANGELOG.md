@@ -6,6 +6,19 @@
 * html中添加测试文件 ([1f44c6f](https://github.com/wangkaiwd/git-test/commit/1f44c6f))
 * 删除版本控制工具并删除changelog文件 ([0c20f8e](https://github.com/wangkaiwd/git-test/commit/0c20f8e))
 * 发布最新版本 ([f72ef64](https://github.com/wangkaiwd/git-test/commit/f72ef64))
+* 新增命令测试文字 ([2bf6703](https://github.com/wangkaiwd/git-test/commit/2bf6703))
+* 添加changelog ([69cc144](https://github.com/wangkaiwd/git-test/commit/69cc144))
+
+
+
+# [1.0.0](https://github.com/wangkaiwd/git-test/compare/v1.1.1...v1.0.0) (2019-01-24)
+
+
+### Features
+
+* html中添加测试文件 ([1f44c6f](https://github.com/wangkaiwd/git-test/commit/1f44c6f))
+* 删除版本控制工具并删除changelog文件 ([0c20f8e](https://github.com/wangkaiwd/git-test/commit/0c20f8e))
+* 发布最新版本 ([f72ef64](https://github.com/wangkaiwd/git-test/commit/f72ef64))
 
 
 
