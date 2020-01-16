@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "commitizen": "^4.0.3",
+    "cz-conventional-changelog": "3.0.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "version": "conventional-changelog -p angular -i CHANGELOG.md -s"
@@ -19,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/wangkaiwd/git-test/issues"
   },
-  "homepage": "https://github.com/wangkaiwd/git-test#readme"
+  "homepage": "https://github.com/wangkaiwd/git-test#readme",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
