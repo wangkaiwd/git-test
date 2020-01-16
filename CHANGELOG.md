@@ -1,3 +1,12 @@
+## [1.0.3](https://github.com/wangkaiwd/git-test/compare/v1.0.1...v1.0.3) (2020-01-16)
+
+
+### Features
+
+* summary notes for library ([b0ddc5c](https://github.com/wangkaiwd/git-test/commit/b0ddc5cfdeff35fb08dba635516b08b690949a4a))
+
+
+
 ## [1.0.2](https://github.com/wangkaiwd/git-test/compare/v1.0.1...v1.0.2) (2020-01-16)
 
 
