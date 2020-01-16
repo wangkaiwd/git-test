@@ -12,12 +12,11 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "version": "conventional-changelog -p angular -i CHANGELOG.md -s"
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md"
   },
   "husky": {
     "hooks": {
-      "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true",
-      "version": "conventional-changelog -p angular -i CHANGELOG.md -s"
+      "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
     }
   },
   "repository": {
