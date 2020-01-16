@@ -1,3 +1,7 @@
+# [1.2.0](https://github.com/wangkaiwd/git-test/compare/v1.0.4...v1.2.0) (2020-01-16)
+
+
+
 # [1.1.0](https://github.com/wangkaiwd/git-test/compare/v1.0.4...v1.1.0) (2020-01-16)
 
 
