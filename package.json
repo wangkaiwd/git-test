@@ -5,19 +5,9 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "commitizen": "^4.0.3",
-    "conventional-changelog-cli": "^2.0.31",
-    "cz-conventional-changelog": "3.0.2",
-    "husky": "^4.0.10"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md"
-  },
-  "husky": {
-    "hooks": {
-      "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
-    }
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -29,10 +19,5 @@
   "bugs": {
     "url": "https://github.com/wangkaiwd/git-test/issues"
   },
-  "homepage": "https://github.com/wangkaiwd/git-test#readme",
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
-  }
+  "homepage": "https://github.com/wangkaiwd/git-test#readme"
 }
