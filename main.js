@@ -1,1 +1,3 @@
-console.log('main');
+const { a } = require('./sub-module/a');
+
+a();
